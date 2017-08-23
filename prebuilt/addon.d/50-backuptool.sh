@@ -1,7 +1,7 @@
 #!/sbin/sh
 # 
-# During an upgrade, this script backs up /system/etc/hosts,
-# This script will also backup and restore your gapps and other things you add.
+# During an upgrade, this script will backup and restore your gapps
+# and other things you add.
 # /system is formatted and reinstalled, then the file is restored.
 #
 
@@ -9,7 +9,6 @@
 
 list_files() {
 cat <<EOF
-etc/hosts
 EOF
 }
 
