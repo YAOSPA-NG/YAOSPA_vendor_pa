@@ -12,6 +12,9 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
+# Include vendor YAOSP
+include vendor/yaosp/configs/yaosp_main.mk
+
 export VENDOR := pa
 
 # Include versioning information

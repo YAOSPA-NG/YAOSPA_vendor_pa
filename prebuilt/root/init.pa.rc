@@ -1,5 +1,7 @@
 # Paranoid Android Extras
 
+import /init.yaosp.rc
+
 on init
     export ANDROID_CACHE /cache
 
