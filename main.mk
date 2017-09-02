@@ -108,9 +108,6 @@ PRODUCT_PACKAGES += \
 # Build sound recorder
 PRODUCT_PACKAGES += SoundRecorder
 
-# Build ParanoidHub
-PRODUCT_PACKAGES += ParanoidHub
-
 # Build WallpaperPicker
 PRODUCT_PACKAGES += WallpaperPicker
 
