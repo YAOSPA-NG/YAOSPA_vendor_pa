@@ -1,23 +1,5 @@
 [
     {
-        "target_path":  "device/lge/bullhead",
-        "repository":   "AOSPA/android_device_lge_bullhead",
-        "remote":       "aospa",
-        "revision":     "nougat-mr2"
-    },
-    {
-        "target_path":  "vendor/lge/bullhead",
-        "repository":   "proprietary_vendor_lge_bullhead",
-        "remote":       "blobs",
-        "revision":     "nougat-mr2"
-    },
-    {
-        "target_path":  "kernel/lge/bullhead",
-        "repository":   "AOSPA/android_kernel_lge_bullhead",
-        "remote":       "aospa",
-        "revision":     "nougat-mr2"
-    },
-    {
         "target_path":  "hardware/qcom/audio",
         "repository":   "AOSPA/android_hardware_qcom_audio",
         "remote":       "aospa",
