@@ -3,19 +3,19 @@
         "target_path":  "device/lge/bullhead",
         "repository":   "YAOSPA_device_lge_bullhead",
         "remote":       "yaospa",
-        "revision":     "YAOSPA-NG-20170918"
+        "revision":     "YAOSPA-NG-20171011"
     },
     {
         "target_path":  "vendor/lge/bullhead",
         "repository":   "YAOSPA_vendor_lge_bullhead",
         "remote":       "yaospa",
-        "revision":     "YAOSPA-NG-20170918"
+        "revision":     "YAOSPA-NG-20171011"
     },
     {
         "target_path":  "kernel/lge/bullhead",
         "repository":   "YAOSPA_kernel_lge_bullhead",
         "remote":       "yaospa",
-        "revision":     "YAOSPA-NG-20170918"
+        "revision":     "YAOSPA-NG-20171011"
     },
     {
         "target_path":  "hardware/qcom/audio",

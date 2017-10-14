@@ -3,19 +3,19 @@
         "target_path":  "device/moto/shamu",
         "repository":   "YAOSPA_device_moto_shamu",
         "remote":       "yaospa",
-        "revision":     "YAOSPA-NG-20170918"
+        "revision":     "YAOSPA-NG-20171011"
     },
     {
         "target_path":  "vendor/moto/shamu",
         "repository":   "YAOSPA_vendor_moto_shamu",
         "remote":       "yaospa",
-        "revision":     "YAOSPA-NG-20170918"
+        "revision":     "YAOSPA-NG-20171011"
     },
     {
         "target_path":  "kernel/moto/shamu",
         "repository":   "YAOSPA_kernel_moto_shamu",
         "remote":       "yaospa",
-        "revision":     "YAOSPA-NG-20170918"
+        "revision":     "YAOSPA-NG-20171011"
     },
     {
         "target_path":  "hardware/qcom/audio",
