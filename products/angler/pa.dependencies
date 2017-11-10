@@ -1,38 +1,38 @@
 [
     {
         "target_path":  "device/huawei/angler",
-        "repository":   "AOSPA/android_device_huawei_angler",
-        "remote":       "aospa",
-        "revision":     "nougat-mr2"
+        "repository":   "YAOSPA_device_huawei_angler",
+        "remote":       "yaospa",
+        "revision":     "YAOSPA-NG-20171109"
     },
     {
         "target_path":  "vendor/huawei/angler",
-        "repository":   "proprietary_vendor_huawei_angler",
-        "remote":       "blobs",
-        "revision":     "nougat-mr2"
+        "repository":   "YAOSPA_vendor_huawei_angler",
+        "remote":       "yaospa",
+        "revision":     "YAOSPA-NG-20171109"
     },
     {
         "target_path":  "kernel/huawei/angler",
-        "repository":   "AOSPA/android_kernel_huawei_angler",
-        "remote":       "aospa",
-        "revision":     "nougat-mr2"
+        "repository":   "YAOSPA_kernel_huawei_angler",
+        "remote":       "yaospa",
+        "revision":     "YAOSPA-NG-20171109"
     },
     {
         "target_path":  "hardware/qcom/audio",
-        "repository":   "AOSPA/android_hardware_qcom_audio",
-        "remote":       "aospa",
+        "repository":   "YAOSPA_hardware_qcom_audio",
+        "remote":       "yaospa",
         "revision":     "nougat-mr2-aosp"
     },
     {
         "target_path":  "hardware/qcom/display",
-        "repository":   "AOSPA/android_hardware_qcom_display",
-        "remote":       "aospa",
+        "repository":   "YAOSPA_hardware_qcom_display",
+        "remote":       "yaospa",
         "revision":     "nougat-mr2-8994"
     },
     {
         "target_path":  "hardware/qcom/media",
-        "repository":   "AOSPA/android_hardware_qcom_media",
-        "remote":       "aospa",
+        "repository":   "YAOSPA_hardware_qcom_media",
+        "remote":       "yaospa",
         "revision":     "nougat-mr2-8994"
     }
 ]
